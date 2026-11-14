@@ -1,0 +1,13 @@
+Best timetable for 'small' by ACO (run 1)
+cost=159  hard violations=0  soft penalty=159
+
+Day  1  Period 1  seats   70/226:  Course_000
+Day  1  Period 2  seats  159/226:  Course_005, Course_007
+Day  2  Period 1  seats  130/226:  Course_012, Course_014
+Day  2  Period 2  seats   85/226:  Course_004
+Day  3  Period 1  seats  128/226:  Course_002, Course_003
+Day  3  Period 2  seats   83/226:  Course_010
+Day  4  Period 1  seats  136/226:  Course_008, Course_009
+Day  4  Period 2  seats   80/226:  Course_001
+Day  5  Period 1  seats   71/226:  Course_011
+Day  5  Period 2  seats  136/226:  Course_006, Course_013

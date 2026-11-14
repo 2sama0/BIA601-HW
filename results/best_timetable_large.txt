@@ -1,0 +1,33 @@
+Best timetable for 'large' by ACO (run 9)
+cost=215  hard violations=0  soft penalty=215
+
+Day  1  Period 1  seats  596/860:  Course_001, Course_023, Course_027, Course_048, Course_050
+Day  1  Period 2  seats  163/860:  Course_029
+Day  1  Period 3  seats  553/860:  Course_044, Course_067, Course_082, Course_093
+Day  2  Period 1  seats  498/860:  Course_025, Course_047, Course_057, Course_076
+Day  2  Period 2  seats    0/860:  -
+Day  2  Period 3  seats  778/860:  Course_020, Course_024, Course_051, Course_065, Course_066, Course_074
+Day  3  Period 1  seats  646/860:  Course_030, Course_041, Course_049, Course_072, Course_079
+Day  3  Period 2  seats    0/860:  -
+Day  3  Period 3  seats  646/860:  Course_035, Course_038, Course_039, Course_058, Course_064
+Day  4  Period 1  seats  556/860:  Course_021, Course_053, Course_091, Course_092
+Day  4  Period 2  seats  213/860:  Course_037, Course_087
+Day  4  Period 3  seats  482/860:  Course_002, Course_006, Course_052, Course_084
+Day  5  Period 1  seats  484/860:  Course_000, Course_015, Course_034, Course_086
+Day  5  Period 2  seats  280/860:  Course_011, Course_055
+Day  5  Period 3  seats  538/860:  Course_005, Course_013, Course_088, Course_090
+Day  6  Period 1  seats  480/860:  Course_003, Course_026, Course_061, Course_071
+Day  6  Period 2  seats  365/860:  Course_009, Course_016, Course_042
+Day  6  Period 3  seats  533/860:  Course_007, Course_017, Course_022, Course_056
+Day  7  Period 1  seats  518/860:  Course_062, Course_078, Course_095, Course_096
+Day  7  Period 2  seats  282/860:  Course_008, Course_069
+Day  7  Period 3  seats  357/860:  Course_075, Course_085, Course_094
+Day  8  Period 1  seats  679/860:  Course_014, Course_031, Course_046, Course_077, Course_080
+Day  8  Period 2  seats    0/860:  -
+Day  8  Period 3  seats  502/860:  Course_004, Course_036, Course_081, Course_097
+Day  9  Period 1  seats  382/860:  Course_018, Course_040, Course_063
+Day  9  Period 2  seats  123/860:  Course_019
+Day  9  Period 3  seats  611/860:  Course_010, Course_045, Course_060, Course_068, Course_083
+Day 10  Period 1  seats  761/860:  Course_033, Course_043, Course_054, Course_073, Course_098, Course_099
+Day 10  Period 2  seats    0/860:  -
+Day 10  Period 3  seats  773/860:  Course_012, Course_028, Course_032, Course_059, Course_070, Course_089

@@ -1,0 +1,13 @@
+size,algorithm,peak_kb
+small,Random,320.59
+small,GA,334.55
+small,PSO,384.0
+small,ACO,75.31
+medium,Random,2106.73
+medium,GA,2105.35
+medium,PSO,2267.98
+medium,ACO,434.65
+large,Random,8791.38
+large,GA,8789.53
+large,PSO,9187.47
+large,ACO,1790.12

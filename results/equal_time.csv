@@ -1,0 +1,7 @@
+size,algorithm,seconds,runs,mean_cost,std_cost,best_cost,feasible_runs,mean_evaluations
+small,GA,4.8,5,199.2,56.4,156.0,5,2230228
+small,PSO,4.8,5,741.4,874.1,279.0,4,2613200
+medium,GA,25.9,5,778.6,71.9,722.0,5,2129068
+medium,PSO,25.9,5,10052.0,1530.7,7808.0,0,2309580
+large,GA,99.2,5,294.4,28.8,265.0,5,2066968
+large,PSO,99.2,5,18186.2,4741.7,13533.0,0,2052900

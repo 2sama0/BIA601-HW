@@ -1,0 +1,21 @@
+Best timetable for 'medium' by ACO (run 0)
+cost=525  hard violations=0  soft penalty=525
+
+Day  1  Period 1  seats  117/489:  Course_022
+Day  1  Period 2  seats  345/489:  Course_025, Course_027, Course_029
+Day  1  Period 3  seats  196/489:  Course_020, Course_030
+Day  2  Period 1  seats  293/489:  Course_006, Course_037, Course_038
+Day  2  Period 2  seats  116/489:  Course_010
+Day  2  Period 3  seats  329/489:  Course_002, Course_003, Course_017
+Day  3  Period 1  seats  101/489:  Course_008
+Day  3  Period 2  seats  202/489:  Course_023, Course_036
+Day  3  Period 3  seats  344/489:  Course_004, Course_009, Course_031
+Day  4  Period 1  seats  207/489:  Course_001, Course_033
+Day  4  Period 2  seats  220/489:  Course_024, Course_035
+Day  4  Period 3  seats  426/489:  Course_007, Course_015, Course_028, Course_032
+Day  5  Period 1  seats  228/489:  Course_005, Course_019
+Day  5  Period 2  seats  205/489:  Course_014, Course_016
+Day  5  Period 3  seats  231/489:  Course_012, Course_021
+Day  6  Period 1  seats  201/489:  Course_000, Course_026
+Day  6  Period 2  seats  214/489:  Course_013, Course_034
+Day  6  Period 3  seats  331/489:  Course_011, Course_018, Course_039

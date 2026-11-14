@@ -1,0 +1,28 @@
+{
+  "name": "small",
+  "n_exams": 15,
+  "n_students": 250,
+  "days": 5,
+  "periods_per_day": 2,
+  "n_slots": 10,
+  "seats_per_slot": 226,
+  "n_enrollments": 1078,
+  "seed": 1,
+  "reference_solution": [
+    2,
+    7,
+    1,
+    1,
+    9,
+    7,
+    4,
+    6,
+    0,
+    0,
+    8,
+    6,
+    3,
+    1,
+    3
+  ]
+}
